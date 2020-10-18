@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52152d76-7bb5-4f72-8cb4-920d0dd22b90" name="Default Changelist" comment="Update lib to work with node v14" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j3XOhEfG7qMlNwesl7XqyioMfl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node-sql-migrations2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52152d76-7bb5-4f72-8cb4-920d0dd22b90" name="Default Changelist" comment="" />
+      <created>1603033718549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603033718549</updated>
+      <workItem from="1603033719768" duration="2155000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update lib to work with node v14">
+      <created>1603034719801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603034719801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update lib to work with node v14">
+      <created>1603035378382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603035378382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update lib to work with node v14">
+      <created>1603035580791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603035580791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update lib to work with node v14">
+      <created>1603035800169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603035800169</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update lib to work with node v14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update lib to work with node v14" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603033927468">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.28.1848.1052@72.28.1848.1052" timestamp="1603033927468" />
+    <state x="779" y="312" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603035473140">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="779" y="312" width="424" height="491" key="FileChooserDialogImpl/72.28.1848.1052@72.28.1848.1052" timestamp="1603035473140" />
+    <state x="727" y="237" width="528" height="640" key="RollbackChangesDialog" timestamp="1603034514257">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="727" y="237" width="528" height="640" key="RollbackChangesDialog/72.28.1848.1052@72.28.1848.1052" timestamp="1603034514257" />
+    <state x="591" y="276" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1603035822390">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="591" y="276" width="800" height="563" key="Vcs.Push.Dialog.v2/72.28.1848.1052@72.28.1848.1052" timestamp="1603035822390" />
+    <state x="857" y="443" width="367" height="283" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1603034690915">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="857" y="443" width="367" height="283" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/72.28.1848.1052@72.28.1848.1052" timestamp="1603034690915" />
+    <state x="172" y="128" width="1648" height="852" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603035797809">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="172" y="128" width="1648" height="852" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.28.1848.1052@72.28.1848.1052" timestamp="1603035797809" />
+    <state x="687" y="293" width="618" height="522" key="find.popup" timestamp="1603033897741">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="687" y="293" width="618" height="522" key="find.popup/72.28.1848.1052@72.28.1848.1052" timestamp="1603033897741" />
+  </component>
+</project>

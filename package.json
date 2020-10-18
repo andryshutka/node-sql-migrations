@@ -1,0 +1,28 @@
+{
+  "name": "sql-migrations",
+  "version": "1.0.6",
+  "description": "raw SQL migrations library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "publish": "publish-to-git"
+  },
+  "keywords": [
+    "node",
+    "sql",
+    "database",
+    "migration"
+  ],
+  "author": "Dmitrii Abramov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dmitriiabramov/node-sql-migrations.git"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "mkdirp": "^0.5.0",
+    "promise-mysql": "^3.3.1",
+    "publish-to-git": "^1.1.7",
+    "pg": "^8.0.3"
+  }
+}
